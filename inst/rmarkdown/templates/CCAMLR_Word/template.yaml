@@ -1,0 +1,5 @@
+name: CCAMLR Word Template
+description: >
+ Word template with CCAMLR Science csl file.
+create_dir: true
+

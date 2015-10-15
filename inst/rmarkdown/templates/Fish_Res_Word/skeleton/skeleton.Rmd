@@ -1,0 +1,68 @@
+---
+title: "Fisheries Research Manuscript"
+author: "Paul Burch et al"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+output:
+  word_document:
+    reference_docx: fishresStyle.docx
+    fig_width: 5
+    fig_height: 5
+    fig_caption: true
+csl: canadian-journal-of-fisheries-and-aquatic-sciences.csl
+bibliography: C:\Users\paul_bur\Work\Documentation\Articles\Jabref\refs.bib
+---
+
+# Abstract
+
+
+# 1. Introduction
+
+
+# 2. Materials and Methods
+
+## Suggestion from the writing workshop 
+
+** Write up the methods for every analysis as it is undertaken **
+
+
+# 3. Results
+
+
+# 4. Discussion
+
+## Example structure suggested in writing workshop 
+
+The suggested structure of the discussion
+
+* This study demonstrated that ... (describes the most important findings)
+
+* Additionally ... (other findings that aren't as important)
+    
+* It suggests that ... (compare and contrast our finding with other studies can go into detail here)
+    
+* However, the limitations of this study ... ()
+    
+* In conclusion ... (final paragraph of the conclusions from the study)
+
+
+
+# Acknowledgements
+
+We would like to acknowledge ...
+
+This study was funded through the Fisheries Research and Development Corporation
+(Project 2013/013) with contributions from Austral Fisheries P/L and Australian Longline P/L.
+
+
+# Appendix 1
+
+This document was created using rmarkdown and knitr to combined R code and MS Word documentation. The following versions R and associated packages were used in its creation.
+
+
+```{r}
+devtools::sessionInfo()
+```
+
+
+
+# References

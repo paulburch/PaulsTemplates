@@ -1,0 +1,9 @@
+Package: PaulsTemplates
+Type: Package
+Title: Rmarkdown document templates
+Version: 1.0.1
+Date: 2015-02-99
+Author: Paul Burch
+Maintainer: Paul Burch <Paul.Burch77@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL3

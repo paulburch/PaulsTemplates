@@ -1,0 +1,5 @@
+name: PDF Template
+description: >
+ PDF template with Fisheries Research csl file.
+create_dir: true
+
