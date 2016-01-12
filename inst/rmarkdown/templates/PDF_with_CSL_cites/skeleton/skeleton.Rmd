@@ -7,7 +7,7 @@ output:
     fig_width: 5
     fig_height: 5
     fig_caption: true
-csl: canadian-journal-of-fisheries-and-aquatic-sciences.csl
+csl: canadian-journal.csl
 bibliography: C:\Users\paul_bur\Work\Documentation\Articles\Jabref\refs.bib
 ---
 
